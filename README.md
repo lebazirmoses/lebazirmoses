@@ -15,15 +15,7 @@ Feel free to reach out to me to explore collaborations, projects, or anything re
 
 ✉️ Email: lebazir2004@gmail.com
 
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-- 🔭 Currently working on: **Developing an ERP Model for Food Supply Chain Management**
-
-- 🌱 Currently learning: **Advancing my skills in Machine Learning**
-
-- 👯 Open to collaboration on: **Projects involving AI Enhanced Smart Parking Solutions**
-
-- 📫 How to reach me: **lebazir2004@gmail.com**
+💼 LinkedIn: https://www.linkedin.com/in/lebazir-moses-s-32a91b254/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
